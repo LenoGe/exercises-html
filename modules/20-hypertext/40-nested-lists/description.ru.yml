@@ -7,7 +7,7 @@ theory: |
 
   <div class="hexlet-basics-example">
       <ul>
-          <li>Сходить в магазин
+          <li>Сходить в магазин</li>
               <ul>
                   <li>Купить молоко</li>
                   <li>Купить хлеб</li>
@@ -33,24 +33,23 @@ theory: |
 
   ```html
   <ul>
-      <li>Сходить в магазин
+      <li>Сходить в магазин</li>
           <ol>
               <li>Купить молоко</li>
               <li>Купить хлеб</li>
           </ol>
-      </li>
       <li>Пройти уроки на Code Basics </li>
   </ul>
   ```
 
   <div class="hexlet-basics-example">
       <ul>
-          <li>Сходить в магазин
+          <li>Сходить в магазин</li>
               <ol>
                   <li>Купить молоко</li>
                   <li>Купить хлеб</li>
               </ol>
-          </li>
+          
           <li>Пройти уроки на Code Basics </li>
       </ul>
   </div>
